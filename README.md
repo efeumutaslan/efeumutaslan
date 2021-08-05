@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 [![Spotify](https://novatorem-efeumutaslan.vercel.app/)](https://open.spotify.com/user/21ypbztfqlipppoibqnnrzbrq?si=268b64dedda34150)
 
+ [<img src="https://novatorem-efeumutaslan.vercel.app/" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21ypbztfqlipppoibqnnrzbrq?si=268b64dedda34150)
