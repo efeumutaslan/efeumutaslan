@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 ![Metrics](https://metrics.lecoq.io/efeumutaslan?template=classic&languages=1&achievements=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
-
-[![Spotify](https:novatorem-tan-seven.vercel.app)](https://open.spotify.com/user/21ypbztfqlipppoibqnnrzbrq?si=268b64dedda34150)
+###Spotify Playing
+[<img src="https:novatorem-tan-seven.vercel.app" alt="efeumutaslan" width="350" />](https://open.spotify.com/user/21ypbztfqlipppoibqnnrzbrq?si=268b64dedda34150)
