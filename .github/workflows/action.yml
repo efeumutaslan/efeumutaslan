@@ -32,7 +32,12 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          
           plugin_music: yes
-          plugin_music_limit: 4                   # Limit to 4 entries
-          plugin_music_playlist: https://open.spotify.com/playlist/5Rmv7LHca4P4bZJLSeGy1l?si=1d066afc0f2d4be6
-                                               #   (plugin_music_provider and plugin_music_mode will be set automatically)
+          plugin_music_provider: spotify # Use Spotify as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 4          # Limit to 4 entries
+          plugin_music_played_at: yes    # Show timestamp (for spotify only)
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+
+
