@@ -286,7 +286,7 @@
                                 <div class="infos">
                                     <div class="name">Tunnel of Love</div>
                                     <div class="artist">ilyTOMMY</div>
-                                    <div class="played-at">Played at 03:58:16 on 22 Jul 2022</div>
+                                    <div class="played-at">Played at 09:07:27 on 22 Jul 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1774,7 +1774,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2022, 08:31:02 (timezone Europe/Istanbul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 09:31:26 (timezone Europe/Istanbul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
