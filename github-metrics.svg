@@ -286,7 +286,7 @@
                                 <div class="infos">
                                     <div class="name">Bulletproof</div>
                                     <div class="artist">FARR</div>
-                                    <div class="played-at">Played at 17:03:14 on 10 Sept 2022</div>
+                                    <div class="played-at">Played at 17:04:23 on 10 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1730,7 +1730,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Sept 2022, 01:23:59 (timezone Europe/Istanbul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Sept 2022, 02:24:41 (timezone Europe/Istanbul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
