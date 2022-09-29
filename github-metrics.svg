@@ -286,7 +286,7 @@
                                 <div class="infos">
                                     <div class="name">Lost Her to Wolves</div>
                                     <div class="artist">Strangers On A Train</div>
-                                    <div class="played-at">Played at 12:20:26 on 29 Sept 2022</div>
+                                    <div class="played-at">Played at 17:57:46 on 29 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -294,7 +294,7 @@
                                 <div class="infos">
                                     <div class="name">Ice</div>
                                     <div class="artist">Camel</div>
-                                    <div class="played-at">Played at 12:16:23 on 29 Sept 2022</div>
+                                    <div class="played-at">Played at 17:53:41 on 29 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -302,7 +302,7 @@
                                 <div class="infos">
                                     <div class="name">Breathe</div>
                                     <div class="artist">The White Birch</div>
-                                    <div class="played-at">Played at 12:06:04 on 29 Sept 2022</div>
+                                    <div class="played-at">Played at 17:43:23 on 29 Sept 2022</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -310,7 +310,7 @@
                                 <div class="infos">
                                     <div class="name">You Cut Her Hair</div>
                                     <div class="artist">Tom McRae</div>
-                                    <div class="played-at">Played at 12:01:00 on 29 Sept 2022</div>
+                                    <div class="played-at">Played at 17:38:19 on 29 Sept 2022</div>
                                 </div>
                             </div>
                         </div>
@@ -1773,7 +1773,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Sept 2022, 17:34:04 (timezone Europe/Istanbul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 29 Sept 2022, 18:30:22 (timezone Europe/Istanbul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
