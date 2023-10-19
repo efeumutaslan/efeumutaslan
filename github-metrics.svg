@@ -286,7 +286,7 @@
                                 <div class="infos">
                                     <div class="name">Years of Silence</div>
                                     <div class="artist">Thurisaz</div>
-                                    <div class="played-at">Played at 00:11:09 on 20 Oct 2023</div>
+                                    <div class="played-at">Played at 01:15:45 on 20 Oct 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -294,7 +294,7 @@
                                 <div class="infos">
                                     <div class="name">Soldier of Fortune</div>
                                     <div class="artist">Opeth</div>
-                                    <div class="played-at">Played at 00:03:57 on 20 Oct 2023</div>
+                                    <div class="played-at">Played at 01:08:33 on 20 Oct 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -302,7 +302,7 @@
                                 <div class="infos">
                                     <div class="name">Easing The Pain</div>
                                     <div class="artist">Sabhankra</div>
-                                    <div class="played-at">Played at 00:00:28 on 20 Oct 2023</div>
+                                    <div class="played-at">Played at 01:05:05 on 20 Oct 2023</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -310,7 +310,7 @@
                                 <div class="infos">
                                     <div class="name">Small Mountain</div>
                                     <div class="artist">Midlake</div>
-                                    <div class="played-at">Played at 23:57:24 on 19 Oct 2023</div>
+                                    <div class="played-at">Played at 01:02:00 on 20 Oct 2023</div>
                                 </div>
                             </div>
                         </div>
@@ -1721,7 +1721,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 80.1m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 157m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1773,7 +1773,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Oct 2023, 00:14:15 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2023, 01:16:22 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
