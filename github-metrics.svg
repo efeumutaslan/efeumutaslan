@@ -300,7 +300,7 @@
                                 <div class="infos">
                                     <div class="name">I Caught You</div>
                                     <div class="artist">Zeal &amp; Ardor</div>
-                                    <div class="played-at">Played at 16:20:12 on 26 Oct 2025</div>
+                                    <div class="played-at">Played at 01:10:50 on 27 Oct 2025</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -1375,7 +1375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2025, 01:06:48 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2025, 02:06:48 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
